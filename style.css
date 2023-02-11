@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:rgb(206, 255, 163);
+}
+
+header img {
+ width:90px;
+ height:90px;
+}
+
+main h1 {
+text-align: center;
+background-color:rgb(185, 246, 129);
+}
+
+main h2 {
+font-size:20px;
+background-color:rgb(185, 246, 129);
+}
+
+main {
+background-color: rgb(206, 255, 163);
+}
+
+button {
+background : rgb(185, 246, 129)
+}
+
+footer h1 {
+    font-size: 20px;
+    background-color:rgb(185, 246, 129);
+}
+
+footer {
+    background-color: rgb(206, 255, 163);;
+}
+
+body {
+  font-family: 'Times New Roman', serif;
+}
